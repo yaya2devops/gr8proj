@@ -4,7 +4,7 @@ import './Navigation.css';
 function Navigation() {
   return (
     <div className="Navigation">
-        <img src="public/logo192.png" alt="My Logo" />    
+        <img src="logo192.png" alt="My Logo" />    
       <ul>
         <li><a href="#">FAQ</a></li>
         <li><a href="#">Blogs</a></li>
